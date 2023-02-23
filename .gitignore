@@ -17,6 +17,7 @@ test.sh
 
 .idea/*
 .vscode
+.vs
 
 # secret like apikey
 secret.js

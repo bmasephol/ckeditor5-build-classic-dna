@@ -5,7 +5,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import superagent from "superagent";
 import "./modal.css";
-import { unsplashClientID } from "./secret";
+//import { unsplashClientID } from "./secret";
 
 let clientID = unsplashClientID;
 
